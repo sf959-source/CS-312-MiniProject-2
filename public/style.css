@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color:aqua;
+  margin: 40px;
+}
+a {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: lightblue;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+}
+h1 {
+    color: #333;
+}
+
+a {
+    display: inline-block;
+    background-color: #b4d1f3;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #357abd;
+}
+.riddle-box {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
